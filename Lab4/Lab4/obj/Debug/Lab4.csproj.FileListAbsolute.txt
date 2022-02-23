@@ -1,0 +1,7 @@
+C:\University\ООП\2 Semestr\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\University\ООП\2 Semestr\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\University\ООП\2 Semestr\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\University\ООП\2 Semestr\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\University\ООП\2 Semestr\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\University\ООП\2 Semestr\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\University\ООП\2 Semestr\Lab4\Lab4\obj\Debug\Lab4.pdb
