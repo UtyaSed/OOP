@@ -1,7 +1,0 @@
-C:\University\ООП\2 Semestr\Lab3\Lab3\bin\Debug\Lab3.exe.config
-C:\University\ООП\2 Semestr\Lab3\Lab3\bin\Debug\Lab3.exe
-C:\University\ООП\2 Semestr\Lab3\Lab3\bin\Debug\Lab3.pdb
-C:\University\ООП\2 Semestr\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
-C:\University\ООП\2 Semestr\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
-C:\University\ООП\2 Semestr\Lab3\Lab3\obj\Debug\Lab3.exe
-C:\University\ООП\2 Semestr\Lab3\Lab3\obj\Debug\Lab3.pdb
