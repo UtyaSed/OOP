@@ -1,0 +1,7 @@
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\bin\Debug\Lab 2.3.exe.config
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\bin\Debug\Lab 2.3.exe
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\bin\Debug\Lab 2.3.pdb
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\obj\Debug\Lab 2.3.csproj.AssemblyReference.cache
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\obj\Debug\Lab 2.3.csproj.CoreCompileInputs.cache
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\obj\Debug\Lab 2.3.exe
+C:\University\OOP\2 Semestr\Lab 2.3\Lab 2.3\obj\Debug\Lab 2.3.pdb
